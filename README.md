@@ -23,12 +23,14 @@ Confidence in this interpretation: medium on the competitive angle, low on the c
 | Phase | Name | Status |
 |---|---|---|
 | 1 | Client Meeting | Complete |
-| 2 | Requirement Gathering | Not started |
+| 2 | Requirement Gathering | Complete |
 | 3 |  |  |
 
 
 ## Documents
 - Phase 1 deliverables:(https://github.com/Revz94/End-to-End-BI-Project-/commit/712850d14c099dfa31011c9c3af2ce9ed418346d)
+- Phase 2 requirement :https://github.com/Revz94/End-to-End-BI-Project-/blob/main/Phase_1_Deliverables_Revised.docx
+- 
 
 ## Planned Tools
 
