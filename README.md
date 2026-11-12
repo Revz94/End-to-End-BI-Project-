@@ -28,7 +28,7 @@ Confidence in this interpretation: medium on the competitive angle, low on the c
 
 
 ## Documents
-- Phase 1 deliverables: link to docs/01_client_meeting/
+- Phase 1 deliverables:(https://github.com/Revz94/End-to-End-BI-Project-/commit/712850d14c099dfa31011c9c3af2ce9ed418346d)
 
 ## Planned Tools
 
